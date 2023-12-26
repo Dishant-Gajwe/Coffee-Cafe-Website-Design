@@ -1,4 +1,4 @@
-<div align="center"> <h1> <b> Coffee Website Design. </b> </h1></div>
+<div align="center"> <h1> <b> Coffee Cafe Website Design. </b> </h1></div>
 
 <div align="center">
   <h3>Overview</h3>
